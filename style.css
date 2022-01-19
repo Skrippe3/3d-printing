@@ -1,0 +1,33 @@
+body {
+	background: url(https://photogora.ru/img/product/big/10524/15432413120.jpg)
+
+  font-size: 16px;
+  font-weight: normal; 
+}
+
+.bg-cornsilk {
+  background: cornsilk;
+}
+
+.bg-cornsilk {
+  background: cornsilk;
+}
+
+.bg-cornsilk {
+  background: cornsilk;
+}
+
+.card {
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.container {
+  max-width: 1500px;
+  margin: auto;
+}
+
+.info {
+  margin-bottom: 20px;
+}
